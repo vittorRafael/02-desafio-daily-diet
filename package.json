@@ -1,0 +1,26 @@
+{
+  "name": "02-desafio-daily-diet",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vittorRafael/02-desafio-daily-diet.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vittorRafael/02-desafio-daily-diet/issues"
+  },
+  "homepage": "https://github.com/vittorRafael/02-desafio-daily-diet#readme",
+  "description": "",
+  "dependencies": {
+    "@fastify/cookie": "^9.3.1",
+    "dotenv": "^16.4.5",
+    "fastify": "^4.28.1",
+    "knex": "^3.1.0",
+    "zod": "^3.23.8"
+  }
+}
